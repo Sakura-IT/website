@@ -1,0 +1,5 @@
+Redirect / https://github.com/Sakura-IT/
+Redirect /sram.php https://github.com/Sakura-IT/ppa-pcmcia-sram
+Redirect /opensource.php https://github.com/Sakura-IT/
+Redirect /decelerator.php https://github.com/Sakura-IT/decelerator4030
+
